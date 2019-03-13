@@ -1,0 +1,19 @@
+html, 
+body {
+height: 100%;
+}
+
+ body {
+    background: url(l5.jpg) no-repeat;
+    background-size: cover;
+    
+     
+     }
+ 
+.navbar {
+    font-size: 30px;
+}
+
+.dropdown {
+    padding-left: 40px;
+}

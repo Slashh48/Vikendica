@@ -1,0 +1,30 @@
+html, 
+body {
+height: 100%;
+}
+
+body {
+    background: url(letopozadina.jpg);
+    background-size: cover;
+    
+     
+     }
+.navbar {
+    font-size: 30px;
+}
+
+.dropdown {
+    padding-left: 40px;
+}
+
+.thumbnail {
+    margin: 20px;
+    
+}
+
+p {
+    color: red;
+    background-color: beige;
+    text-align: center;
+    font-family:cursive;
+}
